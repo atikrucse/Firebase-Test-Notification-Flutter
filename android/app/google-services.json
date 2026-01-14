@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "728301094620",
+    "project_id": "test-notification-fireba-b789a",
+    "storage_bucket": "test-notification-fireba-b789a.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:728301094620:android:ba590693c61a453fe1d619",
+        "android_client_info": {
+          "package_name": "com.example.test_notification_2"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCTe-rgC5lNlpJefPVQfe6aaWA2pqazc7g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
