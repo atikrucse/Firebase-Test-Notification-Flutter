@@ -59,11 +59,11 @@ class DefaultFirebaseOptions {
 
   static const FirebaseOptions ios = FirebaseOptions(
     apiKey: 'AIzaSyBGhsUvq7U_EcxvI34qwG38srVwczW2dE4',
-    appId: '1:728301094620:ios:68ae9e93b5b741dee1d619',
+    appId: '1:728301094620:ios:294d99c4ea847b6be1d619',
     messagingSenderId: '728301094620',
     projectId: 'test-notification-fireba-b789a',
     storageBucket: 'test-notification-fireba-b789a.firebasestorage.app',
-    iosBundleId: 'com.example.testNotification',
+    iosBundleId: 'com.firebase.test.notification101',
   );
 
   static const FirebaseOptions macos = FirebaseOptions(
